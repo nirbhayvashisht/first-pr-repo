@@ -139,7 +139,8 @@ Now open your github account to make a pull request.
   <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/pr1.PNG" alt="pr button">
 </div>
 <br>
-- Write a meaningful description and click on Create Pull Request
+- Write a meaningful description and click on Create Pull Request.
+
 <div align="center">
   <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/pr2.PNG">
 </div>
