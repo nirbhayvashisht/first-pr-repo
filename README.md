@@ -66,10 +66,10 @@ To create a new branch, from the terminal inside your current project directory 
 ```
 git branch YOUR_GITHUB_USERNAME-profile
 ```
-Obviously you'll have to replace the YOUR_GITHUB_USERNAME with your GitHub username.
+Obviously you'll have to replace the YOUR_GITHUB_USERNAME with your GitHub username.<br>
 (You can give any name to your branch which describes the purpose of the branch. Since here we're adding your profile to the profiles directory, we'll simply give the name of the branch as above. 
-eg: git branch nirbhayvashisht-profile. 
-Once you have created the new branch we'll change the current branch from master to your newly created branch. 
+eg: git branch nirbhayvashisht-profile. )<br>
+Once you have created the new branch we'll change the current branch from master to your newly created branch.<br>
 Execute the following command on your terminal.
 ```
 git checkout YOUR_BRANCH_NAME
@@ -135,10 +135,10 @@ git push -u origin YOUR_BRANCH_NAME
 Now open your github account to make a pull request.
 - Click on compare and pull request
 
-<div align="center"
+<div align="center">
   <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/pr1.PNG" alt="pr button">
 </div>
-
+<br>
 - Write a meaningful description and click on Create Pull Request
 <div align="center">
   <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/pr2.PNG">
