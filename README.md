@@ -18,7 +18,7 @@
 ### Step 1
 The first step you want to do in-order to contribute to an open source project is to **_fork_** the project. This will create a copy of the project under your account.<br>
 You'll see the fork option on the top right hand side of the screen.
-- Click on the fork button
+- Click on the fork button.
 <details open>
   <summary>Fork Button Image</summary>
   <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/fork%20button.PNG" alt="fork button Image">
@@ -35,13 +35,13 @@ You can do this in 2 ways:
 </details>
 
 1. OPTION 1
-  - Click on the clone button
+  - Click on the clone button.
   - Download the ZIP and then extract it.
 2. OPTION 2
   - Click on the clone button.
   - Copy the link under HTTPS section.
-  - Open terminal/git bash/command prompt
-  - Type 
+  - Open terminal/git bash/command prompt.
+  - Type -
   ```
   git clone
   ```
@@ -133,7 +133,7 @@ git push -u origin YOUR_BRANCH_NAME
 ```
 ### Step 7
 Now open your github account to make a pull request.
-- Click on compare and pull request
+- Click on compare and pull request.
 
 <div align="center">
   <img src="https://github.com/nirbhayvashisht/first-pr-repo/blob/master/Resources/pr1.PNG" alt="pr button">
