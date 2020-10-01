@@ -132,7 +132,8 @@ Execute the following command to push all the changes to the forked copy in your
 git push -u origin YOUR_BRANCH_NAME
 ```
 ### Step 7
-Now open your github account to make a pull request.
+Now open your github account to make a pull request. 
+Do this from YOUR fork of the project. Github will automatically link your PR back to the project you originally forked.
 - Click on compare and pull request.
 
 <div align="center">
